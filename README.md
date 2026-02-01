@@ -6,7 +6,7 @@
 - Roland Ung
 - Viswadevi Narayanassamychettiar
 
-## Objectif
+## Objectifs
 - Développer une application Java de gestion hôtelière permettant de centraliser la gestion des clients, des chambres, des réservations, des séjours, des produits mini bar et des consommations.
 - L’application comporte une interface avec menus et sous-menus afin de faciliter les opérations courantes d’un hôtel, comme l’ajout, la modification et la suppression d’éléments, ainsi que la consultation des données enregistrées.
 
