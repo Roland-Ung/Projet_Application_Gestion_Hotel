@@ -69,8 +69,7 @@ Projet_Application_Gestion_Hotel/
 ├── src/
 │   ├── controleur/    Gestion des boutons : ajouter, supprimer, modifier
 │   ├── model/         Entités métiers : client, chambre, réservations...
-│   ├── vue/           Affichage de la fenêtre et des menus
-    └── module-info.java    Définition du module Java et des dépendances
+│   └── vue/           Affichage de la fenêtre et des menus
 ├── .classpath         Configuration du classpath pour Eclipse
 ├── .project           Fichier de configuration du projet Eclipse
 ├── .gitignore         Fichiers à exclure de Git
