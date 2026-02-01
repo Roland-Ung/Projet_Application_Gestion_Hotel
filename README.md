@@ -4,7 +4,7 @@
 
 ## Membres
 - Roland Ung
-- Viswadevi Narayanasamychettiar
+- Viswadevi Narayanassamychettiar
 
 ## Objectif
 - Développer une application Java de gestion hôtelière permettant de centraliser la gestion des clients, des chambres, des réservations, des séjours, des produits mini bar et des consommations.
